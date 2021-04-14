@@ -1,0 +1,16 @@
+Uri: https://www.tinting-laws.com/tint-tester/tint-tester.htm
+File Name: C:\Users\PC\Desktop\www.tinting-laws.com\tint-tester\tint-tester.htm
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+File Name: C:\Users\PC\Desktop\www.tinting-laws.com\ajax\libs\jquery\1.4.2\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js
+File Name: C:\Users\PC\Desktop\www.tinting-laws.com\ajax\libs\jqueryui\1.8.4\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://www.tinting-laws.com/tint-tester/tinting-laws-tint-tester-sprite.jpg
+File Name: C:\Users\PC\Desktop\www.tinting-laws.com\tint-tester\tinting-laws-tint-tester-sprite.jpg
+Content Type: image/jpeg
+
